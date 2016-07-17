@@ -17,11 +17,15 @@
 
 ## Zeitplan NOC
 ### 4.08. Donnerstag
-- Anreise gegen 19/20h 
+- Anreise gegen 15/16h
 - Erster LTE Check
+- Aufbau/Ausrichtung LTE Antenne
+- Rudimentäres WLAN für Helfer-Crew
+- Evtl. Streaming?
 
 ### 5.08. Freitag
-- Aufbau/Ausrichtung LTE Antenne
+- Aufbau restliche WLAN Infrastruktur
+- Deadline 14:00h
 
 ### 6.08. Samstag
 
