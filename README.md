@@ -10,7 +10,7 @@
 
 ## Aufgaben
 - Bereitstellung WLAN-Infrastruktur (sofern LTE Netz vor Ort performant genug inkl. Internet)
-- Streaming Anbindung StudioLink
+- Streaming Anbindung Studio Link
 
 ## Zeitplan
 ### 4.08. Donnerstag
@@ -35,6 +35,7 @@
 - MIMO Antenne 10/14dBi
 - 2x 30 Meter S/FTP CAT6 Kabel
 - 3x 10 Meter S/FTP CAT6 Kabel
+- 2x Stairville BLS-315 Pro Lighting (LTE und WLAN Mast-Stativ)
 
 ## Netzwerk Diagramm
 
