@@ -36,6 +36,10 @@
 - 2x 30 Meter S/FTP CAT6 Kabel
 - 3x 10 Meter S/FTP CAT6 Kabel
 - 2x Stairville BLS-315 Pro Lighting (LTE und WLAN Mast-Stativ)
+- 1x 40 Meter Kabeltrommel (3 Schutzkontaktsteckdosen)
+- 1x Werkzeugkoffer
+- 1x Panzertapeband
+- 100x 38cm Kabelbinder
 
 ## Netzwerk Diagramm
 
