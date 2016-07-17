@@ -27,12 +27,17 @@
 
 ## Ausrüstung
 
+### Hardware
 - 1x Ubiquiti EdgeRouter POE
 - 2x Ubiquiti NanoStation LOCO M5
 - 2x Ubiquiti Unifi AP AC Lite
 - 1x Ubiquiti Unifi AP AC Pro
-- Vodafone K5005 USB LTE Stick
-- MIMO Antenne 10/14dBi
+- 1x Vodafone K5005 USB LTE Stick
+- 1x MIMO Antenne 10/14dBi
+- 2x TP-Link TL-WR1043ND
+- 1x Zotac Mini PC Barebone (Unifi Controller + OpenVPN)
+
+### Sonstiges Material
 - 2x 30 Meter S/FTP CAT6 Kabel
 - 3x 10 Meter S/FTP CAT6 Kabel
 - 2x Stairville BLS-315 Pro Lighting (LTE und WLAN Mast-Stativ)
