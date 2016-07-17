@@ -12,7 +12,10 @@
 - Bereitstellung WLAN-Infrastruktur (sofern LTE Netz vor Ort performant genug inkl. Internet)
 - Streaming Anbindung Studio Link
 
-## Zeitplan
+## Zeitplan Allgemein
+![Zeitplan Podstock](/images/podstock-zeitplan.png)
+
+## Zeitplan NOC
 ### 4.08. Donnerstag
 - Anreise gegen 19/20h 
 - Erster LTE Check
