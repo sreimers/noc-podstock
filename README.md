@@ -8,6 +8,10 @@
 - 55487 Sohrschied
 - http://www.vbs-sohrschied.de/
 
+## Aufgaben
+- Bereitstellung WLAN-Infrastruktur (sofern LTE Netz vor Ort performant genug)
+- Streaming Anbindung StudioLink
+
 ## Zeitplan
 ### 4.08. Donnerstag
 - Anreise gegen 19/20h 
@@ -28,6 +32,7 @@
 - 2x Ubiquiti Unifi AP AC Lite
 - 1x Ubiquiti Unifi AP AC Pro
 - Vodafone K5005 USB LTE Stick
+- MIMO Antenne 10/14dBi
 - 2x 30 Meter S/FTP CAT6 Kabel
 - 3x 10 Meter S/FTP CAT6 Kabel
 
