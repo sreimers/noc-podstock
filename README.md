@@ -10,16 +10,16 @@
 
 ## Zeitplan
 ### 4.08. Donnerstag
-- Anreise gegen 19/20h erster LTE Check
+- Anreise gegen 19/20h 
+- Erster LTE Check
 
 ### 5.08. Freitag
-- Bis 13h 
-  - Aufbau LTE
-  - 
+- Aufbau/Ausrichtung LTE Antenne
 
 ### 6.08. Samstag
 
 ### 7.09. Sonntag
+- Ab 14h Abbau
 
 ## Ausrüstung
 
