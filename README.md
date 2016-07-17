@@ -20,7 +20,7 @@
 - Anreise gegen 15/16h
 - Erster LTE Check
 - Aufbau/Ausrichtung LTE Antenne
-- Rudimentäres WLAN für Helfer-Crew
+- Rudimentäres WLAN für HelferInnen-Crew
 - Evtl. Streaming?
 
 ### 5.08. Freitag
