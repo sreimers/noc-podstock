@@ -31,6 +31,9 @@
 - 2x 30 Meter S/FTP CAT6 Kabel
 - 3x 10 Meter S/FTP CAT6 Kabel
 
+## Netzwerk Diagramm
+
+![Vodafone Verfuegbarkeit Kompaktansicht](/images/netzwerk-diagramm.png)
 
 ## LTE Verfügbarkeit
 
