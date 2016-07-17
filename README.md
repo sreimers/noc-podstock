@@ -17,5 +17,6 @@ http://www.vbs-sohrschied.de/
 
 http://www.vodafone.de/privat/hilfe-support/detail-ansicht-netzabdeckung.html
 
+![Vodafone Verfuegbarkeit Kompaktansicht](/images/vodafone-verfuegbarkeit.png)
 
-
+![Vodafone Verfuegbarkeit Detailansicht](/images/vodafone-verfuegbarkeit-detail.png)
