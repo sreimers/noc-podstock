@@ -10,8 +10,15 @@
 
 ## Zeitplan
 ### 4.08. Donnerstag
+- Anreise gegen 19/20h erster LTE Check
+
 ### 5.08. Freitag
+- Bis 13h 
+  - Aufbau LTE
+  - 
+
 ### 6.08. Samstag
+
 ### 7.09. Sonntag
 
 ## Ausrüstung
