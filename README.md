@@ -48,3 +48,8 @@ http://www.vodafone.de/privat/hilfe-support/detail-ansicht-netzabdeckung.html
 ![Vodafone Verfuegbarkeit Kompaktansicht](/images/vodafone-verfuegbarkeit.png)
 
 ![Vodafone Verfuegbarkeit Detailansicht](/images/vodafone-verfuegbarkeit-detail.png)
+
+
+## Weitere Links
+
+- https://airlink.ubnt.com/#/ -> 2x AIRMAX 13dBi 3m
