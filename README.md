@@ -9,7 +9,7 @@
 - http://www.vbs-sohrschied.de/
 
 ## Aufgaben
-- Bereitstellung WLAN-Infrastruktur (sofern LTE Netz vor Ort performant genug)
+- Bereitstellung WLAN-Infrastruktur (sofern LTE Netz vor Ort performant genug inkl. Internet)
 - Streaming Anbindung StudioLink
 
 ## Zeitplan
