@@ -25,11 +25,13 @@
 
 ### 5.08. Freitag
 - Aufbau restliche WLAN Infrastruktur
-- Deadline 14:00h
+- 20:00h - 22:00h Streaming
 
 ### 6.08. Samstag
+- 09:00h - 22:00h Streaming
 
 ### 7.09. Sonntag
+- 09:30h - 12:00h Streaming
 - Ab 14h Abbau
 
 ## Ausrüstung
