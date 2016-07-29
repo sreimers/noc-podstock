@@ -15,6 +15,9 @@
 ## Zeitplan Allgemein
 ![Zeitplan Podstock](/images/podstock-zeitplan.png)
 
+
+http://stream.studio-link.de/podstock/programm.html
+
 ## Zeitplan NOC
 ### 4.08. Donnerstag
 - Anreise gegen 15/16h
@@ -32,23 +35,24 @@
 
 ### 7.09. Sonntag
 - 09:30h - 12:00h Streaming
-- Ab 14h Abbau
+- Ab 13/14h Abbau
 
 ## Ausrüstung
 
 ### Hardware
 - 1x Ubiquiti EdgeRouter POE
 - 2x Ubiquiti NanoStation LOCO M5
-- 2x Ubiquiti Unifi AP AC Lite
+- 3x Ubiquiti Unifi AP AC Lite
 - 1x Ubiquiti Unifi AP AC Pro
-- 1x Vodafone K5005 USB LTE Stick
+- 1x Vodafone K5005 USB LTE Stick inkl. Pigtails
+- 1x HUAWEI E3372 inkl. Pigtails
 - 1x MIMO Antenne 10/14dBi
 - 2x TP-Link TL-WR1043ND
 - 1x Zotac Mini PC Barebone (Unifi Controller + OpenVPN)
 
 ### Sonstiges Material
-- 2x 30 Meter S/FTP CAT6 Kabel
-- 3x 10 Meter S/FTP CAT6 Kabel
+- 3x 30 Meter S/FTP CAT6 Kabel
+- 4x 10 Meter S/FTP CAT6 Kabel
 - 2x Stairville BLS-315 Pro Lighting (LTE und WLAN Mast-Stativ)
 - 1x 40 Meter Kabeltrommel (3 Schutzkontaktsteckdosen)
 - 1x Werkzeugkoffer
