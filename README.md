@@ -1,4 +1,4 @@
-# NOC Planung Podstock 2016
+# NOC Planung Podstock 2017
 
 
 ## Veranstaltungsort: 
@@ -9,32 +9,29 @@
 - http://www.vbs-sohrschied.de/
 
 ## Aufgaben
-- Bereitstellung WLAN-Infrastruktur (sofern LTE Netz vor Ort performant genug inkl. Internet)
+- Bereitstellung WLAN-Infrastruktur UND LTE Internet
 - Streaming Anbindung Studio Link
 
-## Zeitplan Allgemein
-![Zeitplan Podstock](/images/podstock-zeitplan.png)
+## Zeitplan Programm
+@TODO
 
-
-http://stream.studio-link.de/podstock/programm.html
 
 ## Zeitplan NOC
-### 4.08. Donnerstag
-- Anreise gegen 15/16h
+### 10.08. Donnerstag
+- Anreise gegen 14/15h
 - Erster LTE Check
 - Aufbau/Ausrichtung LTE Antenne
 - Rudimentäres WLAN für HelferInnen-Crew
-- Evtl. Streaming?
 
-### 5.08. Freitag
+### 11.08. Freitag
 - Aufbau restliche WLAN Infrastruktur
-- 20:00h - 22:00h Streaming
+- 20:00h - 22:00h Streaming?
 
-### 6.08. Samstag
-- 09:00h - 22:00h Streaming
+### 12.08. Samstag
+- 09:00h - 22:00h Streaming?
 
-### 7.09. Sonntag
-- 09:30h - 12:00h Streaming
+### 13.09. Sonntag
+- 09:30h - 12:00h Streaming?
 - Ab 13/14h Abbau
 
 ## Ausrüstung
@@ -42,6 +39,7 @@ http://stream.studio-link.de/podstock/programm.html
 ### Hardware
 - 1x Ubiquiti EdgeRouter POE
 - 2x Ubiquiti NanoStation LOCO M5
+  2x Ubiquiti ()
 - 3x Ubiquiti Unifi AP AC Lite
 - 1x Ubiquiti Unifi AP AC Pro
 - 1x Vodafone K5005 USB LTE Stick inkl. Pigtails
