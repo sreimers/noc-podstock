@@ -39,8 +39,9 @@
 ### Hardware
 - 1x Ubiquiti EdgeRouter POE
 - 2x Ubiquiti NanoStation LOCO M5
-  2x Ubiquiti ()
-- 3x Ubiquiti Unifi AP AC Lite
+- 2x Ubiquiti NanoBeam AC (NBE-5AC-19)
+- 4x Ubiquiti Unifi AP AC Lite
+- 1x Ubiquiti Unifi AP AC LR
 - 1x Ubiquiti Unifi AP AC Pro
 - 1x Vodafone K5005 USB LTE Stick inkl. Pigtails
 - 1x HUAWEI E3372 inkl. Pigtails
